@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.exe
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.deps.json
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.runtimeconfig.json
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.dll
+C:\Users\dev\Desktop\POO Elevador\bin\Debug\netcoreapp3.1\POO Elevador.pdb
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.dll
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.pdb
+C:\Users\dev\Desktop\POO Elevador\obj\Debug\netcoreapp3.1\POO Elevador.genruntimeconfig.cache
